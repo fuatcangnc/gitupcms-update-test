@@ -54,3 +54,4 @@ export const dir = (locale: string) => (['ar', 'fa', 'he', 'ur'].includes(locale
 
 export const phoneHref = (phone: string) => `tel:${phone.replace(/[^+\d]/g, '')}`
 export const whatsappHref = (number: string, message: string) => `https://wa.me/${number}?text=${encodeURIComponent(message)}`
+// customer edit
