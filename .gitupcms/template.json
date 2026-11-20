@@ -1,6 +1,6 @@
 {
   "template": "astro-tailwind-business-starter",
-  "version": "fd53dc3327aec18b5480b73f19f9547bc789b9fe",
+  "version": "c1d939c7448431d6c3b7ae5249e447b0fcc4e138",
   "i18n": {
     "locales": [
       "en"
@@ -60,7 +60,7 @@
     "src/content.config.ts": "d6772153efcb23de8e778a65bd675797212c41f9",
     "src/layouts/Layout.astro": "644c55e80f270075f0b97731c55d0db2695be2b2",
     "src/lib/i18n.ts": "da262a5f07aea5beb55c9506782768e3d386a5e9",
-    "src/lib/utils.ts": "bd0c391ddd1088e9067844c48835bf4abcd61783",
+    "src/lib/utils.ts": "3e427441a4f8d881c82491a0b4a0797aaa270c69",
     "src/pages/[...locale]/about.astro": "d0f77ec8e9c107b99a782fec908cdd373a0b9a48",
     "src/pages/[...locale]/blog/[slug].astro": "9c2840d8eda946a25081db380211eb4a7bb01006",
     "src/pages/[...locale]/blog/index.astro": "6ec173d0322e0e5a798e71af560f0ca016dca6d7",
